@@ -60,4 +60,3 @@ src/
 ## ⚠️ API Rate Limits
 
 GitHub's public API allows **60 requests/hour** for unauthenticated clients.
-To increase limits, pass a `Authorization: Bearer <token>` header in `useGitHub.js`.
